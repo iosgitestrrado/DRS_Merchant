@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>433373304202-o28hip82o4086e0o4ddubtg2t0olr8vj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.433373304202-o28hip82o4086e0o4ddubtg2t0olr8vj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCvuHQQ2zlEfgpcBLpyoy2kMm51vxygkPU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>433373304202</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.drs.drsmerchant</string>
+	<key>PROJECT_ID</key>
+	<string>drs-merchant</string>
+	<key>STORAGE_BUCKET</key>
+	<string>drs-merchant.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:433373304202:ios:38e06efe95f434a233e473</string>
+	<key>DATABASE_URL</key>
+	<string>https://drs-merchant.firebaseio.com</string>
+</dict>
+</plist>

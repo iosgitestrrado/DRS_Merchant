@@ -1,0 +1,395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource>
+    <App_Name>DRS ကုန်သည်</App_Name>
+<!-- Message Start -->
+<!-- App Version -->
+<merchant_app_version> ဗားရှင်း </merchant_app_version>
+<!-- Sign Up -->
+<merchant_register_success> မှတ်ပုံတင်ခြင်းအောင်မြင်ပါပြီ။ admin ၏အတည်ပြုချက်ကိုစောင့်ပါ </merchant_register_success>
+<merchant_login_id_already_taken> လော့အင်အိုင်ကိုယူထားပြီးဖြစ်သည် </merchant_login_id_already_taken>
+<merchant_email_already_taken> ဒီအီးမေးလ်ပြီးသွားပါပြီ </merchant_email_already_taken>
+<merchant_contact_no_already_taken> စီးပွားရေးအဆက်အသွယ်နံပါတ်ယူထားပြီးဖြစ်သည် </merchant_contact_no_already_taken>
+<merchant_business_contact_btwn_7_12> စီးပွားရေးအဆက်အသွယ်နံပါတ်သည်ဂဏန်း ၇ မှ ၁၂ အထိကြားဖြစ်ရမည်</merchant_business_contact_btwn_7_12>
+<merchant_contact_btwn_7_12> ဆက်သွယ်ရန်နံပါတ်သည်ဂဏန်း ၇ လုံးမှ ၁၂ လုံးကြားဖြစ်ရမည် </merchant_contact_btwn_7_12>
+<merchant_ref_id_valid> လွှဲပြောင်းအိုင်ဒီတရားဝင်ဖြစ်ရမည်</merchant_ref_id_valid>
+<merchant_pass_6_char> စကားဝှက်မှာအနည်းဆုံးအက္ခရာ ၆ လုံးဖြစ်ရမည် </merchant_pass_6_char>
+<merchant_login_required> လော့အင်အိုင်ကွက်ဖြည့်ရန်လိုအပ်သည်</merchant_login_required>
+<merchant_bus_name_required> စီးပွားရေးအမည်အမည်ဖြည့်ပါ</merchant_bus_name_required>
+<merchant_email_required> အီးမေးလ်အကွက်လိုအပ်ပါသည် </merchant_email_required>
+<merchant_bus_contact_no_required> စီးပွားရေးဆက်သွယ်မှုနံပါတ်ကွက်လပ်သည်လိုအပ်သည် </merchant_bus_contact_no_required>
+<merchant_pass_required> လျှို့ဝှက်နံပါတ်ဖြည့်ရန်လိုအပ်သည်</merchant_pass_required>
+<merchant_pay_pin_required> ငွေပေးချေမှု pincode လယ်ပြင်လိုအပ်ပါသည် </merchant_pay_pin_required>
+<merchant_contact_must_number> ဆက်သွယ်ရန်နံပါတ်သည်နံပါတ်ဖြစ်ရမည် </merchant_contact_must_number>
+<merchant_bus_contact_must_no>စီးပွားရေးအဆက်အသွယ်နံပါတ်သည်နံပါတ်ဖြစ်ရမည် </merchant_bus_contact_must_no>
+<merchant_email_valid> အီးမေးလ်သည်မှန်ကန်သောအီးမေးလ်လိပ်စာတစ်ခုဖြစ်ရမည် </merchant_email_valid>
+ <merchant_dial_code> နံပါတ်ကုဒ်နံပါတ်ကိုရွေးပါ </merchant_dial_code>
+<!-- Categories -->
+<merchant_cat_list> အမျိုးအစားစာရင်း </merchant_cat_list>
+<!-- Countries -->
+<merchant_country_list> နိုင်ငံစာရင်း </merchant_country_list>
+<!--  Regions -->
+<merchant_region_list> ဒေသများစာရင်း </merchant_region_list>
+<!--  Days drop down -->
+<merchant_day_list> ရက်ပေါင်းစာရင်း </merchant_day_list>
+
+<!-- Sign In -->
+<merchant_login_success> Login အောင်မြင်ပါပြီ </merchant_login_success>
+<merchant_invalid_cred> မမှန်ကန်သောအထောက်အထားများ</merchant_invalid_cred>
+<merchant_user_name_required> အသုံးပြုသူအမည်ကွက်လပ်ဖြည့်ရန်လိုအပ်သည် </merchant_user_name_required>
+<merchant_pass_required>လျှို့ဝှက်နံပါတ်ဖြည့်ရန်လိုအပ်သည် </merchant_pass_required>
+<!-- Sign Out -->
+<merchant_invalid_token> မမှန်ကန်သောဆက်သွယ်မှုလက္ခဏာသက်သေ </merchant_invalid_token>
+<merchant_logout_success>အောင်မြင်စွာထွက်ပါ </merchant_logout_success>
+<!-- Forgot password -->
+<merchant_otp_sent_ph_no>စကားဝှက်ကိုပြန်လည်စတင်ပါ OTP သည်သင်၏မှတ်ပုံတင်ထားသောဖုန်းနံပါတ်သို့ပို့သည်</merchant_otp_sent_ph_no>
+<merchant_ph_no_btwn_7_13_forgotpwd> ဖုန်းနံပါတ်သည်ဂဏန်း ၇ မှ ၁၃ အထိကြားရှိရမည် </merchant_ph_no_btwn_7_13_forgotpwd>
+<merchant_ph_must_number>ဖုန်းနံပါတ်ကနံပါတ်ဖြစ်ရမယ် </merchant_ph_must_number>
+<merchant_ph_no_required> ဖုန်းနံပါတ်ဖြည့်ရန်လိုအပ်သည် </merchant_ph_no_required>
+<merchant_cannot_fine_ph_no_forgotpwd> ဒီဖုန်းနံပါတ်ပါတဲ့သုံးစွဲသူကိုရှာမရပါ </merchant_cannot_fine_ph_no_forgotpwd>
+<!-- Otp verification -->
+<merchant_otp_verify_success> Otp ကိုအောင်အောင်မြင်မြင်အတည်ပြုပြီး ကျေးဇူးပြု၍ သင်၏စကားဝှက်ကိုပြန်လည်သတ်မှတ်ပါ။ </merchant_otp_verify_success>
+<merchant_ph_no_btwn_7_13_otp>ဖုန်းနံပါတ်သည်ဂဏန်း ၇ မှ ၁၃ အထိကြားရှိရမည် </merchant_ph_no_btwn_7_13_otp>
+<merchant_ph_must_number> ဖုန်းနံပါတ်ကနံပါတ်ဖြစ်ရမယ် </merchant_ph_must_number>
+<merchant_ph_no_required_otp_verification> ဖုန်းနံပါတ်ဖြည့်ရန်လိုအပ်သည်</merchant_ph_no_required_otp_verification>
+<merchant_cannot_fine_ph_no_otpVerify> ဒီဖုန်းနံပါတ်ပါတဲ့သုံးစွဲသူကိုရှာမရပါ </merchant_cannot_fine_ph_no_otpVerify>
+<merchant_otp_required> အဆိုပါ otp လယ်ကွင်းလိုအပ်ပါသည်</merchant_otp_required>
+<merchant_otp_incorrect>ရိုက်ထည့်လိုက်သော OTP သည်မမှန်ကန်ပါ။ နောက်တဖန်ကြိုးစားပါသို့မဟုတ် OTP ပြန်လည်ပေးပို့ပါ။</merchant_otp_incorrect>
+<merchant_otp_incorrect_new_otp>သင်၏မှတ်ပုံတင်ထားသောဖုန်းနံပါတ်သို့ OTP အသစ်ပို့သည်။</merchant_otp_incorrect_new_otp>
+<!--  Reset Password -->
+<merchant_pass_reset_success>သင်၏စကားဝှက်ကိုအောင်မြင်စွာပြန်လည်သတ်မှတ်ပြီးဖြစ်သည် </merchant_pass_reset_success>
+<merchant_invalid_cred> မမှန်ကန်သောအထောက်အထားများ </merchant_invalid_cred>
+<merchant_pass_must_6_char> စကားဝှက်မှာအနည်းဆုံးအက္ခရာ ၆ လုံးဖြစ်ရမည်</merchant_pass_must_6_char>
+<merchant_pass_confirm_doessnot_match>စကားဝှက်အတည်ပြုချက်သည်မကိုက်ညီပါ</merchant_pass_confirm_doessnot_match>
+<merchant_pass_required_reset_pwd>လျှို့ဝှက်နံပါတ်ဖြည့်ရန်လိုအပ်သည်</merchant_pass_required_reset_pwd>
+<!--   Resend otp -->
+<merchant_otp_sent_reg_ph_no> သင်၏မှတ်ပုံတင်ထားသောဖုန်းနံပါတ်သို့ OTP အသစ်ပို့သည်  </merchant_otp_sent_reg_ph_no>
+<merchant_ph_no_btwn_7_13_resentotp> ဖုန်းနံပါတ်သည်ဂဏန်း ၇ မှ ၁၃ အထိကြားရှိရမည် </merchant_ph_no_btwn_7_13_resentotp>
+<merchant_ph_must_number> ဖုန်းနံပါတ်ကနံပါတ်ဖြစ်ရမယ်</merchant_ph_must_number>
+<merchant_ph_no_required_resend_otp> ဖုန်းနံပါတ်ဖြည့်ရန်လိုအပ်သည်</merchant_ph_no_required_resend_otp>
+<merchant_cannot_fine_ph_no_resend_otp>ဒီဖုန်းနံပါတ်ပါတဲ့သုံးစွဲသူကိုရှာမရပါ </merchant_cannot_fine_ph_no_resend_otp>
+<!--  Account Business info -->
+<merchant_invalid_token_bus_info> မမှန်ကန်သောဆက်သွယ်မှုလက္ခဏာသက်သေ </merchant_invalid_token_bus_info>
+<merchant_bus_info> စီးပွားရေးအချက်အလက်</merchant_bus_info>
+<!--  Update Account Business info -->
+<merchant_invalid_token_update_info> မမှန်ကန်သောဆက်သွယ်မှုလက္ခဏာသက်သေ </merchant_invalid_token_update_info>
+<merchant_bus_info_update_success> စီးပွားရေးအချက်အလက်အောင်မြင်စွာအဆင့်မြှင့်တင်</merchant_bus_info_update_success>
+<merchant_bus_contact_must_number> စီးပွားရေးအဆက်အသွယ်နံပါတ်သည်နံပါတ်ဖြစ်ရမည် </merchant_bus_contact_must_number>
+<merchant_contact_must_number_update_info> ဆက်သွယ်ရန်နံပါတ်သည်နံပါတ်ဖြစ်ရမည် </merchant_contact_must_number_update_info>
+<merchant_bus_contact_btw_7_12> စီးပွားရေးအဆက်အသွယ်နံပါတ်သည်ဂဏန်း ၇ မှ ၁၂ အထိကြားဖြစ်ရမည် </merchant_bus_contact_btw_7_12>
+<merchant_contact_btw_7_12> ဆက်သွယ်ရန်နံပါတ်သည်ဂဏန်း ၇ လုံးမှ ၁၂ လုံးကြားဖြစ်ရမည် </merchant_contact_btw_7_12>
+<merchant_bus_name_required_update_account> စီးပွားရေးအမည်အမည်ဖြည့်ပါ </merchant_bus_name_required_update_account>
+<merchant_bus_contact_required_update_info> စီးပွားရေးဆက်သွယ်မှုနံပါတ်ကွက်လပ်သည်လိုအပ်သည် </merchant_bus_contact_required_update_info>
+<!--  Account Bank info -->
+<merchant_invalid_token_bank> မမှန်ကန်သောဆက်သွယ်မှုလက္ခဏာသက်သေ </merchant_invalid_token_bank>
+<merchant_bank_info> ဘဏ်အချက်အလက် </merchant_bank_info>
+<!-- Update Account Bank info -->
+<merchant_invalid_token_update_bank> မမှန်ကန်သောဆက်သွယ်မှုလက္ခဏာသက်သေ </merchant_invalid_token_update_bank>
+<merchant_bank_ibfo_update_success> ဘဏ်အချက်အလက်အောင်မြင်စွာအဆင့်မြှင့်တင် </merchant_bank_ibfo_update_success>
+<merchant_bank_name_required> ဘဏ်အမည်ကွက်လပ်ဖြည့်ရန်လိုအပ်သည်</merchant_bank_name_required>
+<merchant_swift_code_required> ဆွစ်ဖ်ကုဒ်နံပါတ်လိုအပ်သည် </merchant_swift_code_required>
+<merchant_acc_no_required> အကောင့်နံပါတ်ကွက်လပ်လိုအပ်သည် </merchant_acc_no_required>
+<merchant_acc_holder_required> အကောင့်ပိုင်ရှင်အကွက်လိုအပ်သည်</merchant_acc_holder_required>
+<!--  Account General info -->
+<merchant_invalid_token_geninfo> မမှန်ကန်သောဆက်သွယ်မှုလက္ခဏာသက်သေ </merchant_invalid_token_geninfo>
+<merchant_general_info> အထွေထွေအချက်အလက်</merchant_general_info>
+<!--  Update Account General info -->
+<merchant_invalid_token_update_gen_info> မမှန်ကန်သောဆက်သွယ်မှုလက္ခဏာသက်သေ </merchant_invalid_token_update_gen_info>
+<merchant_general_info_update_success> အထွေထွေအချက်အလက်အောင်မြင်စွာအဆင့်မြှင့်တင် </merchant_general_info_update_success>
+<merchant_login_id_already_taken_update_gen_info> လော့အင်အိုင်ကိုယူထားပြီးဖြစ်သည် </merchant_login_id_already_taken_update_gen_info>
+<merchant_login_if_required> လော့အင်အိုင်ကွက်ဖြည့်ရန်လိုအပ်သည် </merchant_login_if_required>
+<merchant_email_required_update_gen_info> အီးမေးလ်အကွက်လိုအပ်ပါသည် </merchant_email_required_update_gen_info>
+<merchant_email_must_valid> အီးမေးလ်သည်မှန်ကန်သောအီးမေးလ်လိပ်စာတစ်ခုဖြစ်ရမည် </merchant_email_must_valid>
+<!-- Update Account Payment pin Code -->
+<merchant_invalid_token_payment_pin> မမှန်ကန်သောဆက်သွယ်မှုလက္ခဏာသက်သေ </merchant_invalid_token_payment_pin>
+<merchant_payment_pin_update_success> ငွေပေးချေခြင်း Pin Code ကိုအောင်မြင်စွာအဆင့်မြှင့်တင် </merchant_payment_pin_update_success>
+<merchant_payment_pin_required> ငွေပေးချေမှု pincode လယ်ပြင်လိုအပ်ပါသည် </merchant_payment_pin_required>
+<!--  Profit list -->
+<merchant_profit_list> အမြတ်စာရင်း </merchant_profit_list>
+<!--  Service tax list -->
+<merchant_service_tax_list> ဝန်ဆောင်မှုအခွန်စာရင်း </merchant_service_tax_list>
+<!--  Government tax list -->
+<merchant_gov_tax_list> အစိုးရအခွန်စာရင်း </merchant_gov_tax_list>
+<!--  Settings page -->
+<merchant_invalid_token_settings> မမှန်ကန်သောဆက်သွယ်မှုလက္ခဏာသက်သေ </merchant_invalid_token_settings>
+<merchant_settings_page> ချိန်ညှိချက်များစာမျက်နှာ </merchant_settings_page>
+<!-- Dashboard -->
+<merchant_invalid_token_dashboard> မမှန်ကန်သောဆက်သွယ်မှုလက္ခဏာသက်သေ </merchant_invalid_token_dashboard>
+<!-- Account update -->
+<merchant_invalid_token_account_update> မမှန်ကန်သောဆက်သွယ်မှုလက္ခဏာသက်သေ </merchant_invalid_token_account_update>
+<merchant_acc_update_success> အကောင့်ကိုအောင်မြင်စွာအဆင့်မြှင့်တင် </merchant_acc_update_success>
+<merchant_contact_must_number> ဆက်သွယ်ရန်နံပါတ်သည်နံပါတ်ဖြစ်ရမည် </merchant_contact_must_number>
+<merchant_bus_contact_must_no_account_update> စီးပွားရေးအဆက်အသွယ်နံပါတ်သည်နံပါတ်ဖြစ်ရမည် </merchant_bus_contact_must_no_account_update>
+<merchant_business_contact_btwn_7_12_account_update> လုပ်ငန်းဆက်သွယ်ရမည့်နံပါတ်သည် ၇ မှ ၁၂ အထိဖြစ်ရပါမည် digits</merchant_business_contact_btwn_7_12_account_update>
+<merchant_contact_btwn_7_12_account_update> ဆက်သွယ်ရန်နံပါတ်သည်ဂဏန်း ၇ လုံးမှ ၁၂ လုံးကြားဖြစ်ရမည် </merchant_contact_btwn_7_12_account_update>
+<merchant_email_valid_account_update> အီးမေးလ်သည်မှန်ကန်သောအီးမေးလ်လိပ်စာတစ်ခုဖြစ်ရမည် </merchant_email_valid_account_update>
+<merchant_bus_name_required_account_update> စီးပွားရေးအမည်အမည်ဖြည့်ပါ </merchant_bus_name_required_account_update>
+<merchant_bus_contact_no_required_account_update> စီးပွားရေးဆက်သွယ်မှုနံပါတ်ကွက်လပ်သည်လိုအပ်သည် </merchant_bus_contact_no_required_account_update>
+<merchant_contact_must_no_account_update> ဆက်သွယ်ရန်နံပါတ်သည်နံပါတ်ဖြစ်ရမည် </merchant_contact_must_no_account_update>
+<merchant_login_id_required> လော့အင်အိုင်ကွက်ဖြည့်ရန်လိုအပ်သည် </merchant_login_id_required>
+<merchant_email_required_account_update> အီးမေးလ်အကွက်လိုအပ်ပါသည် </merchant_email_required_account_update>
+<merchant_pay_pin_required_account_update> ငွေပေးချေမှု pincode လယ်ပြင်လိုအပ်ပါသည် </merchant_pay_pin_required_account_update>
+<!-- Signup dropdowns -->
+
+<merchant_signudrop_list> စာရင်းပေးသွင်းသူစာရင်း </merchant_signudrop_list>
+<!-- Sign Up -->
+<merchant_reg_succes_wait_approval> မှတ်ပုံတင်ခြင်းအောင်မြင်ပါပြီ။ admin ၏အတည်ပြုချက်ကိုစောင့်ပါ </merchant_reg_succes_wait_approval>
+<merchant_login_id_already_taken_signup> လော့အင်အိုင်ကိုယူထားပြီးဖြစ်သည် </merchant_login_id_already_taken_signup>
+<merchant_email_already_taken_signup> ဒီအီးမေးလ်ပြီးသွားပါပြီ </merchant_email_already_taken_signup>
+<merchant_contact_no_already_taken_signup>စီးပွားရေးအဆက်အသွယ်နံပါတ်ယူထားပြီးဖြစ်သည် </merchant_contact_no_already_taken_signup>
+<merchant_business_contact_btwn_7_12_taken_signup> လုပ်ငန်းဆက်သွယ်ရမည့်နံပါတ်သည် ၇ မှ ၁၂ အထိဖြစ်ရပါမည် digits</merchant_business_contact_btwn_7_12_taken_signup>
+<merchant_contact_btwn_7_12_taken_signup> ဆက်သွယ်ရန်နံပါတ်သည်ဂဏန်း ၇ လုံးမှ ၁၂ လုံးကြားဖြစ်ရမည် </merchant_contact_btwn_7_12_taken_signup>
+<merchant_ref_id_valid_taken_signup_signup> လွှဲပြောင်းအိုင်ဒီတရားဝင်ဖြစ်ရမည် </merchant_ref_id_valid_taken_signup_signup>
+<merchant_pass_6_char_signup> စကားဝှက်မှာအနည်းဆုံးအက္ခရာ ၆ လုံးဖြစ်ရမည်</merchant_pass_6_char_signup>
+<merchant_login_required_signup> လော့အင်အိုင်ကွက်ဖြည့်ရန်လိုအပ်သည် </merchant_login_required_signup>
+<merchant_bus_name_required_signup> စီးပွားရေးအမည်အမည်ဖြည့်ပါ </merchant_bus_name_required_signup>
+<merchant_email_required_signup> အီးမေးလ်အကွက်လိုအပ်ပါသည် </merchant_email_required_signup>
+<merchant_bus_contact_no_required_signup> စီးပွားရေးဆက်သွယ်မှုနံပါတ်ကွက်လပ်သည်လိုအပ်သည် </merchant_bus_contact_no_required_signup>
+<merchant_pass_required_signup> လျှို့ဝှက်နံပါတ်ဖြည့်ရန်လိုအပ်သည် </merchant_pass_required_signup>
+<merchant_pay_pin_required_signup> ငွေပေးချေမှု pincode လယ်ပြင်လိုအပ်ပါသည်</merchant_pay_pin_required_signup>
+<merchant_contact_must_number_signup> ဆက်သွယ်ရန်နံပါတ်သည်နံပါတ်ဖြစ်ရမည်</merchant_contact_must_number_signup>
+<merchant_bus_contact_must_no_signup> စီးပွားရေးအဆက်အသွယ်နံပါတ်သည်နံပါတ်ဖြစ်ရမည် </merchant_bus_contact_must_no_signup>
+<merchant_email_valid_signup> အီးမေးလ်သည်မှန်ကန်သောအီးမေးလ်လိပ်စာတစ်ခုဖြစ်ရမည် </merchant_email_valid_signup>
+<!-- Wallet Withdrawal Page -->
+<merchant_invalid_token_withdrawal> မမှန်ကန်သောဆက်သွယ်မှုလက္ခဏာသက်သေ </merchant_invalid_token_withdrawal>
+<merchant_wallet_withdrawal> ပိုက်ဆံအိတ်ထုတ်ယူခြင်း </merchant_wallet_withdrawal>
+<!-- Wallet Withdrawal Request -->
+<merchant_invalid_token_withdrawal_Req> မမှန်ကန်သောဆက်သွယ်မှုလက္ခဏာသက်သေ  </merchant_invalid_token_withdrawal_Req>
+<merchant_withdrawal_req_submit> ထုတ်ယူခြင်းတောင်းခံလွှာတင်သွင်းခဲ့သည် </merchant_withdrawal_req_submit>
+<merchant_req_failed_amount_greater> တောင်းဆိုမှုမအောင်မြင်ပါ၊ သင်၏တောင်းဆိုသောငွေပမာဏသည်လက်ကျန်ငွေထက်ပိုပါသည် </merchant_req_failed_amount_greater>
+<merchant_amount_required> ငွေပမာဏကိုလယ်လိုအပ်ပါသည် </merchant_amount_required>
+<merchant_withdraw_type>ထုတ်ယူခြင်းအမျိုးအစားကိုရွေးချယ်ပါ</merchant_withdraw_type>
+<!-- Wallet Withdrawal History -->
+<merchant_invalid_token_withdrawal_history> မမှန်ကန်သောဆက်သွယ်မှုလက္ခဏာသက်သေ  </merchant_invalid_token_withdrawal_history>
+<merchant_wallet_withdrawal_history> ပိုက်ဆံအိတ်ထုတ်ယူသမိုင်း </merchant_wallet_withdrawal_history>
+<!-- Transaction History -->
+<merchant_invalid_token_trans_history> မမှန်ကန်သောဆက်သွယ်မှုလက္ခဏာသက်သေ </merchant_invalid_token_trans_history>
+<merchant_trans_history>ငွေသွင်းငွေထုတ်သမိုင်း </merchant_trans_history>
+<!-- Transaction view -->
+<merchant_invalid_token_trans_view> မမှန်ကန်သောဆက်သွယ်မှုလက္ခဏာသက်သေ  </merchant_invalid_token_trans_view>
+<merchant_trans_view> ငွေသွင်းငွေထုတ်အမြင် </merchant_trans_view>
+<!-- Sales Report -->
+<merchant_invalid_token_sales> မမှန်ကန်သောဆက်သွယ်မှုလက္ခဏာသက်သေ </merchant_invalid_token_sales>
+<merchant_sales_report> အရောင်းအစီရင်ခံစာ </merchant_sales_report>
+<merchant_start_required> စတင်ရက်စွဲအကွက်ကိုဖြည့်ပါ </merchant_start_required>
+<merchant_end_required> အဆုံးရက်စွဲအကွက်ကိုဖြည့်ပါ </merchant_end_required>
+
+
+
+<!-- Message End -->
+    
+<!--LOGIN -->
+<merc_login_welcome>ကြိုဆိုပါတယ်</merc_login_welcome>
+<merc_login_enter_user_name>အသုံးပြုသူအမည်ရိုက်ထည့်ပါ</merc_login_enter_user_name>
+<merc_login_enter_pass>စကားဝှက်ကိုရိုက်ထည့်ပါ</merc_login_enter_pass>
+<merc_login_sign_in>ဆိုင်းအင်လုပ်ခြင်း</merc_login_sign_in>
+<merc_login_sign_up>ဆိုင်းအပ်</merc_login_sign_up>
+<merc_login_forgot_pass>စကားဝှက်ကိုမေ့နေပါသလား</merc_login_forgot_pass>
+<LOGIN_VALIDATION_MSG>သုံးစွဲသူအမည်နှင့်စကားဝှက်ကိုအချည်းနှီးမထားနိုင်ပါ</LOGIN_VALIDATION_MSG>
+<!-- FORGOT PASSWORD -->
+
+
+<forgot_phone>ဖုန်းနံပါတ်</forgot_phone>
+ <forgot_phone_reg>မှတ်ပုံတင်ထားသောဖုန်းနံပါတ်ထည့်ပါ</forgot_phone_reg>
+<forgot_password>မင်းရဲ့လျှို့ဝှက်နံပါတ်မေ့နေတာလား</forgot_password>
+<forgot_password_Let_us_help_you>သင့်ကိုကူညီပါ ဦး.</forgot_password_Let_us_help_you>
+<forgot_password_Enter_ur_details>စတင်ရန်သင်၏အသေးစိတ်အချက်အလက်များကိုထည့်သွင်းပါ.</forgot_password_Enter_ur_details>
+<forgot_password_enter>ရိုက်ထည့်ပါ</forgot_password_enter>
+<forgot_password_Veriﬁcation_codes_OTP>Veri fi စုံလုံကုဒ်များ OTP</forgot_password_Veriﬁcation_codes_OTP>
+<forgot_password_verification_codes_sent>အတည်ပြုနံပါတ်များကို XXXXXXXXX သို့ပေးပို့ခဲ့သည်</forgot_password_verification_codes_sent>
+<forgot_password_Send_Again_OTP>ထပ်မံ OTP</forgot_password_Send_Again_OTP>
+<forgot_password_Change_Phone_number>ဖုန်းနံပါတ်ပြောင်းပါ</forgot_password_Change_Phone_number>
+<forgot_password_Create_a_password>သင်၏ DRS ကိုကာကွယ်ရန်နံပါတ် ၆ ခုပါသောစကားဝှက်တစ်ခုကိုဖန်တီးပါ</forgot_password_Create_a_password>
+<forgot_password_enter_pass>စကားဝှက်ကိုရိုက်ထည့်ပါ</forgot_password_enter_pass>
+<forgot_password_Reenter_pass>စကားဝှက်ကိုရိုက်ထည့်ပါ</forgot_password_Reenter_pass>
+<merchant_cannot_fine_ph_no_valid>ဖုန်းနံပါတ်သည်မှန်ကန်သောဖုန်းနံပါတ်တစ်ခုဖြစ်ရမည်။</merchant_cannot_fine_ph_no_valid>
+<!--Business Registration -->
+<business_reg>စီးပွားရေးလုပ်ငန်းမှတ်ပုံတင်ခြင်း</business_reg>
+<business_reg_sign_up>ဆိုင်းအပ်</business_reg_sign_up>
+<business_reg_ur_login_id>သင်၏ လော့ဂ်အင် ID</business_reg_ur_login_id>
+<business_reg_pass>စကားဝှက်</business_reg_pass>
+<business_reg_Email_Add>အီးမေးလိပ်စာ</business_reg_Email_Add>
+<business_reg_DRS_Referral_ID>DRS ရည်ညွှန်း ID * ရှိပါက</business_reg_DRS_Referral_ID>
+<business_reg_ur_DRS_User_ID>သင်၏ DRS သုံးစွဲသူ ID * ရှိလျှင်</business_reg_ur_DRS_User_ID>
+<business_reg_Operation_Details>စစ်ဆင်ရေးအသေးစိတ်</business_reg_Operation_Details>
+<business_reg_Business_Name>စီးပွားရေးအမည်</business_reg_Business_Name>
+<business_reg_Business_Add>စီးပွားရေးလိပ်စာ</business_reg_Business_Add>
+<business_reg_Country>နိုင်ငံ</business_reg_Country>
+<business_reg_Region>တိုင်းဒေသကြီ</business_reg_Region>
+<business_reg_Category>အမျိုးအစား</business_reg_Category>
+<business_reg_Cont_Num>ဆက်သွယ်ရန်ဖုန်းနံပါတ်</business_reg_Cont_Num>
+<business_reg_Operation_Hr>စစ်ဆင်ရေးနာရီ</business_reg_Operation_Hr>
+<business_reg_Off_Day>နေ့ရက်</business_reg_Off_Day>
+<business_reg_Comp_Logo>ကုမ္ပဏီတံဆိပ်</business_reg_Comp_Logo>
+<business_reg_Upload_Image>ပုံတင်ပါ</business_reg_Upload_Image>
+<business_reg_Do_u_apply_service_tax>ဝန်ဆောင်မှုအခွန်ကိုလျှောက်ထားပါသလား။</business_reg_Do_u_apply_service_tax>
+<business_reg_Do_u_apply_government_tax>သင်အစိုးရအခွန်ကိုလျှောက်ထားပါသလား</business_reg_Do_u_apply_government_tax>
+<business_reg_Profit_Sharing>အမြတ်ခွဲဝေမှု</business_reg_Profit_Sharing>
+<business_reg_Spcl_Cond>အထူးအခြေအနေ</business_reg_Spcl_Cond>
+<business_reg_Busns_Certificate>လုပ်ငန်းလက်မှတ်</business_reg_Busns_Certificate>
+<business_reg_Dir_Name>ဒါရိုက်တာအမည်</business_reg_Dir_Name>
+<business_reg_Dir_IC_Num>ဒါရိုက်တာ IC နံပါတ်</business_reg_Dir_IC_Num>
+<business_reg_Person_in_Charge>တာဝန်ခံအမည်အတွက်ပုဂ္ဂိုလ်</business_reg_Person_in_Charge>
+<business_reg_Contact_Num>ဆက်သွယ်ရန်ဖုန်းနံပါတ်</business_reg_Contact_Num>
+<business_reg_Bank_Det>ဘဏ်အသေးစိတ်</business_reg_Bank_Det>
+<business_reg_Bank_Name>ဘဏ်အမည်</business_reg_Bank_Name>
+<business_reg_Branch_Add>ဘဏ်ခွဲလိပ်စာ</business_reg_Branch_Add>
+<business_reg_Bank_Swift_Code>ဘဏ်ဆွစ်ဖ် Code ကို</business_reg_Bank_Swift_Code>
+<business_reg_Bank_Holder_Name>ဘဏ်ပိုင်ရှင်အမည်</business_reg_Bank_Holder_Name>
+<business_reg_Bank_Acc_Num>ဘဏ်အကောင့်နံပါတ်</business_reg_Bank_Acc_Num>
+<business_reg_Payment_Pin_Code>ငွေပေးချေမှုရသည့် PIN နံပါတ်</business_reg_Payment_Pin_Code>
+<business_reg_Enter_ur_Code>သင်၏ကုဒ်ကိုထည့်သွင်းပါ</business_reg_Enter_ur_Code>
+<business_reg_Terms_and_Conditions>ကျွန်ုပ်သည်သတ်မှတ်ချက်များနှင့်အခြေအနေများနှင့်သဘောတူညီချက်ကိုသဘောတူသည် </business_reg_Terms_and_Conditions>
+<business_reg_submit>တင်သွင်းပါ</business_reg_submit>
+<!-- Home page -->
+<Home_page>ကောင်းသောနံနက်ခင်း,</Home_page>
+<Home_page_Acc_Bal>ငွေလက်ကျန်</Home_page_Acc_Bal>
+<Home_page_Withdrawal>ထုတ်ယူခြင်</Home_page_Withdrawal>
+<Home_page_Pay_Code>ပေးဆောင်ကုဒ်</Home_page_Pay_Code>
+<!--Transaction History -->
+<Transaction_History>ငွေသွင်းငွေထုတ်သမိုင်</Transaction_History>
+<Transaction_Hitory_Im_looking_for>ကိုရှာနေပါတယ် ...</Transaction_Hitory_Im_looking_for>
+<Transaction_History_All_Payment>ငွေပေးချေမှုအားလုံ</Transaction_History_All_Payment>
+<Transaction_History_Wallet>ိုက်ဆံအိတ်</Transaction_History_Wallet>
+
+<Transaction_History_Cash>ငွေသား</Transaction_History_Cash>
+<Transaction_History_Transaction_ID>ငွေသွင်းငွေထုတ် ID</Transaction_History_Transaction_ID>
+<Transaction_History_Successful>အောင်မြင်သည်</Transaction_History_Successful>
+<Transaction_History_Pending>ဆိုင်းငံ့ထား</Transaction_History_Pending>
+<Transaction_History_Unsuccessful>မအောင်မြင်</Transaction_History_Unsuccessful>
+
+<!-- Transaction Details -->
+<Transaction_Details_Total>စုစုပေါင်း</Transaction_Details_Total>
+<Transaction_Details_Payment_type>ငွေပေးချေမှုအမျိုးအစား</Transaction_Details_Payment_type>
+<Transaction_Details_Online>အွန်လိုင်း</Transaction_Details_Online>
+<Transaction_Details_Total_Taxation>စုစုပေါင်းအခွန်</Transaction_Details_Total_Taxation>
+<Transaction_Details_Total_Taxation_Gov>(အစိုးရအခွန် + ဝန်ဆောင်မှုအခွန်)</Transaction_Details_Total_Taxation_Gov>
+<Transaction_Details_Proﬁt_sharing_to_DRS>DRS သို့အချိုးအစားခွဲဝေမှု</Transaction_Details_Proﬁt_sharing_to_DRS>
+<Transaction_Details_Proﬁt_sharing_to_DRS_Tax>(အခွန်ကင်းလွတ်ခွင့်)</Transaction_Details_Proﬁt_sharing_to_DRS_Tax>
+<Transaction_Details_Date_and_time>နေ့စွဲနှင့်အချိန်</Transaction_Details_Date_and_time>
+<Transaction_Details_Transaction_ID>ငွေသွင်းငွေထုတ် ID</Transaction_Details_Transaction_ID>
+<Transaction_Details_User_ID>သုံးစွဲသူအိုင်ဒီ</Transaction_Details_User_ID>
+<!-- Withdrawal -->
+<Withdrawal>ထုတ်ယူခြင်း</Withdrawal>
+<Withdrawal_Acc_Bal>ငွေလက်ကျန်:</Withdrawal_Acc_Bal>
+<Withdrawal_Enter_amount>ပမာဏကိုရိုက်ထည့်ပါ</Withdrawal_Enter_amount>
+<Withdrawal_Withdraw_to_link_bank>ချိတ်ဆက်ဘဏ်သို့ငွေထုတ်ယူပါ</Withdrawal_Withdraw_to_link_bank>
+<Withdrawal_Terms_and_Conditions>စည်းကမ်းနှင့်သတ်မှတ်ချက်များ:</Withdrawal_Terms_and_Conditions>
+<Withdrawal_Terms_and_Conditions1>၁။</Withdrawal_Terms_and_Conditions1>
+<Withdrawal_Terms_and_Conditions11>အနည်းဆုံးထုတ်ယူနိုင်သည့်ပမာဏဒေါ်လာ ၅၀ ။</Withdrawal_Terms_and_Conditions11>
+<Withdrawal_Terms_and_Conditions2>၂။</Withdrawal_Terms_and_Conditions2>
+<Withdrawal_Terms_and_Conditions22>ဆုတ်ခွာရန်တောင်းဆိုမှုများကိုလတစ်လ၏ ၃ ရက်၊ ၁၃ ရက်နှင့် ၂၃ ရက်တို့တွင်ပြုလုပ်မည်ဖြစ်သည်။ ပြင်ဆင်သည့်ကာလ၏ ၅ ရက်ရက်လိုအပ်သည်။.</Withdrawal_Terms_and_Conditions22>
+
+<Withdrawal_CONFIRM>အတည်ပြုပါ</Withdrawal_CONFIRM>
+<Withdrawal_WITHDRAWAL_HISTORY>ရုပ်သိမ်းခြင်းနောက်ခံ</Withdrawal_WITHDRAWAL_HISTORY>
+<Withdrawal_Request_Fail_MSG>တောင်းဆိုမှုမအောင်မြင်ပါ၊ သင်၏တောင်းဆိုသောငွေပမာဏသည်လက်ကျန်ငွေထက်ပိုပါသည်</Withdrawal_Request_Fail_MSG>
+
+
+
+<!-- Withdrawal Information -->
+<Withdrawal_Information_Withdrawal_Inf>ထုတ်ယူခြင်းသတင်းအချက်အလက်</Withdrawal_Information_Withdrawal_Inf>
+<Withdrawal_Information_Withdrawal_Req>ထုတ်ယူခြင်းတောင်းခံလွှာတင်သွင်းခဲ့သည်</Withdrawal_Information_Withdrawal_Req>
+<Withdrawal_Information_transferred_money_from_merchant_wallet_to_ur_bank_account>ကုန်သည်ပိုက်ဆံအိတ်မှသင်၏ဘဏ်အကောင့်သို့ငွေလွှဲပြောင်းရန်သင်တောင်းဆိုထားသည်</Withdrawal_Information_transferred_money_from_merchant_wallet_to_ur_bank_account>
+<Withdrawal_Information_Wallet_bal>ပိုက်ဆံအိတ်ချိန်ခွင်လျှာ:</Withdrawal_Information_Wallet_bal>
+<Withdrawal_Information_Ref_no>ref နံပါတ်:</Withdrawal_Information_Ref_no>
+
+<!-- Setting  -->
+<Setting>ချိန်ညှိခြင်း</Setting>
+<Setting_Account_Setting>အကောင့်ဆက်တင်များ</Setting_Account_Setting>
+<Setting_Acc_Number>အကောင့်နံပါတ်</Setting_Acc_Number>
+<Setting_Acc_Bal>ငွေလက်ကျန်</Setting_Acc_Bal>
+<Setting_Sales_Report>အရောင်းအစီရင်ခံစာ</Setting_Sales_Report>
+<Setting_Notifications>အသိပေးချက်များ</Setting_Notifications>
+<Setting_Language>ဘာသာစကား</Setting_Language>
+<Setting_Cust_Support>ဖောက်သည်များပံ့ပိုးမှုt</Setting_Cust_Support>
+<Setting_SIGN_OUT>ဆိုင်းအောက်</Setting_SIGN_OUT>
+<Setting_CANCEL>ဖျက်သိမ်းခြင်း</Setting_CANCEL>
+<New_Message_sign_out>မင်းထွက်ချင်တာသေချာလား</New_Message_sign_out>
+<New_Message_NO>မဟုတ်ဘူ</New_Message_NO>
+<New_Message_yes>ဟုတ်တယ်</New_Message_yes>
+
+<Customer_Support_Delete_Success>ပံ့ပိုးမှုအောင်မြင်စွာဖျက်ပြီးပါပြီ</Customer_Support_Delete_Success>
+ <Customer_Support_Delete_Fail>ဖောက်သည်ပံ့ပိုးမှုပေးစာကိုဖျက်ရန်မအောင်မြင်ပါ</Customer_Support_Delete_Fail>
+
+<!-- Acc _Setting -->
+<Acc__Setting_general_info>အထွေထွေအချက်အလက်</Acc__Setting_general_info>
+<Acc_Setting_ur_Login_ID>သင်၏ Login ID</Acc_Setting_ur_Login_ID>
+<Acc_Setting_Pass>စကားဝှက်</Acc_Setting_Pass>
+<Acc_Setting_Email_Add>အီးမေးလိပ်စာ</Acc_Setting_Email_Add>
+<Acc_Setting_DRS_Referral_ID>DRS ရည်ညွှန်း ID * ရှိပါက</Acc_Setting_DRS_Referral_ID >
+<Acc_Setting_Your_DRS_User_ID>သင်၏ DRS သုံးစွဲသူ ID * ရှိလျှင်</Acc_Setting_Your_DRS_User_ID>
+
+<Acc_Setting_Business_Info>စီးပွားရေးအချက်အလက်</Acc_Setting_Business_Info>
+<Acc_Setting_Business_Name>စီးပွားရေးအမည်</Acc_Setting_Business_Name>
+<Acc_Setting_Business_Address>စီးပွားရေးလိပ်စာ</Acc_Setting_Business_Address>
+<Acc_Setting_Country >နိုင်ငံ</Acc_Setting_Country >
+<Acc_Setting_Region >တိုင်းဒေသကြီ</Acc_Setting_Region >
+<Acc_Setting_Category>အမျိုးအစား</Acc_Setting_Category>
+<Acc_Setting_Start_Hr>စစ်ဆင်ရေးစတင်ချိန်</Acc_Setting_Start_Hr >
+<Acc_Setting_End_Hr>စစ်ဆင်ရေးအဆုံးအချိန်</Acc_Setting_End_Hr >
+
+<Acc_Setting_Off_Days>ရုံးပိတ်ရက်</Acc_Setting_Off_Days>
+
+<Acc_Setting_Contact_Number >ဆက်သွယ်ရန်ဖုန်းနံပါတ်</Acc_Setting_Contact_Number >
+<Acc_Setting_Operation_Hour>စစ်ဆင်ရေးနာရီ</Acc_Setting_Operation_Hour>
+<Acc_Setting_Off_Day>နေ့ရက်</Acc_Setting_Off_Day>
+<Acc_Setting_Company_Logo>ကုမ္ပဏီတံဆိပ်</Acc_Setting_Company_Logo>
+<Acc_Setting_Upload_Image>ပုံတင်ပါ</Acc_Setting_Upload_Image>
+<Acc_Setting_Do_you_apply_service_tax>ဝန်ဆောင်မှုအခွန်ကိုလျှောက်ထားပါသလား။</Acc_Setting_Do_you_apply_service_tax>
+<Acc_Setting_Do_you_apply_government_tax>သင်အစိုးရအခွန်ကိုလျှောက်ထားပါသလား</Acc_Setting_Do_you_apply_government_tax>
+<Acc_Setting_Profit_Sharing>အမြတ်ခွဲဝေမှု</Acc_Setting_Profit_Sharing>
+<Acc_Setting_Special_Condition>အထူးအခြေအနေ</Acc_Setting_Special_Condition >
+<Acc_Setting_Business_Certificate>လုပ်ငန်းလက်မှတ်</Acc_Setting_Business_Certificate>
+<Acc_Setting_Director_Name>ဒါရိုက်တာအမည်</Acc_Setting_Director_Name>
+<Acc_Setting_Director_IC_Number>ဒါရိုက်တာ IC နံပါတ်</Acc_Setting_Director_IC_Number >
+<Acc_Setting_Person_in_Charge_Name>တာဝန်ခံအမည်အတွက်ပုဂ္ဂိုလ်</Acc_Setting_Person_in_Charge_Name>
+<Acc_Setting_Contact_Num>ဆက်သွယ်ရန်ဖုန်းနံပါတ်</Acc_Setting_Contact_Num>
+
+<Acc_Setting_Bank_Info>ဘဏ်အချက်အလက်</Acc_Setting_Bank_Info>
+<Acc_Setting_Bank_Name>ဘဏ်အမည်</Acc_Setting_Bank_Name>
+<Acc_Setting_Branch_Add>ဘဏ်ခွဲလိပ်စာ</Acc_Setting_Branch_Add>
+<Acc_Setting_Bank_Swift_Code>ဘဏ်ဆွစ်ဖ် Code ကို</Acc_Setting_Bank_Swift_Code>
+<Acc_Setting_Bank_Holder_Name>ဘဏ်ပိုင်ရှင်အမည်</Acc_Setting_Bank_Holder_Name>
+<Acc_Setting_Bank_Acc_Num>ဘဏ်အကောင့်နံပါတ်</Acc_Setting_Bank_Acc_Num>
+<Acc_Setting_Payment_Pin_Code>ငွေပေးချေမှုရသည့် PIN နံပါတ်</Acc_Setting_Payment_Pin_Code>
+<Acc_Setting_Payment_Pin>သင်၏ကုဒ်ကိုထည့်သွင်းပါ</Acc_Setting_Payment_Pin>
+<Acc_Setting_UPDATE >မွမ်းမံ</Acc_Setting_UPDATE >
+
+<!-- Sales_ Report -->
+<Sales_Report_Day>Day</Sales_Report_Day>
+<Sales_Report_Month>Month</Sales_Report_Month>
+<Sales_Report_Year>Year</Sales_Report_Year>
+<Sales_Report_Start_Date>စတင်သည့်ရက်စွဲ</Sales_Report_Start_Date>
+<Sales_Report_End_Date>အဆုံးရက်</Sales_Report_End_Date>
+<Sales_Report_Cash_Payment>ငွေသားပေးချေမှု</Sales_Report_Cash_Payment>
+<Sales_Report_Wallet_Payment>ိုက်ဆံအိတ်ငွေပေးချေမှု</Sales_Report_Wallet_Payment>
+<Sales_Report_Total_Payment_Received>စုစုပေါင်းငွေပေးချေမှုကိုလက်ခံရရှိခဲ့သည်</Sales_Report_Total_Payment_Received>
+
+<!-- Customer _Support -->
+<Customer_Support_Im_looking_for>ကိုရှာနေပါတယ် ...</Customer_Support_Im_looking_for >
+<Customer_Support_MSG>MSG</Customer_Support_MSG>
+<Customer_Support_Last_message>နောက်ဆုံးသတင်းစကား ...</Customer_Support_Last_message>
+
+<!-- New Message -->
+<New_Message>မက်ဆေ့ခ်ျအသစ်</New_Message>
+<New_Message_To_Support_Centre>စင်တာကိုထောကျပံ့ဖို့</New_Message_To_Support_Centre>
+<New_Message_Please_type_a_message>ကျေးဇူးပြုပြီးစာတစ်စောင်ရေးထည့်ပါ ...</New_Message_Please_type_a_message>
+<New_Message_Send>ပို့ပါ</New_Message_Send>
+<New_Message_Choose_File>ိုင်ရွေးပါ</New_Message_Choose_File>
+<New_Message_No_ﬁle_chosen>ရွေးချယ်ထားသည့် le မရှိပါ</New_Message_No_ﬁle_chosen>
+
+<Terms_Title>စည်းကမ်းနှင့်သတ်မှတ်ချက်များ</Terms_Title>
+<Agreement_Title>သဘောတူညီချက်</Agreement_Title>
+<MsgDetail_Title>သတင်းအသေးစိတ်</MsgDetail_Title>
+<Withdrawal_History_Title>ထုတ်ယူသမိုင်း</Withdrawal_History_Title>
+<Transaction_Details_Title>ငွေသွင်းငွေထုတ်အသေးစိတ်</Transaction_Details_Title>
+
+
+<Setting_language_eng>အင်္ဂလိပ်</Setting_language_eng>
+<Setting_language_bur>ဗမာ</Setting_language_bur>
+
+<Create_Pwd_Title>စကားဝှက်အသစ်ဖန်တီးပါ</Create_Pwd_Title>
+
+   
+</resource>
+
+

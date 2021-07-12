@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resource> 
+<merc_login_welcome>Welcome</merc_login_welcome>
+<merc_login_enter_user_name>Enter User Name</merc_login_enter_user_name>
+<merc_login_enter_pass>Enter password</merc_login_enter_pass>
+<merc_login_sign_in>SIGN IN</merc_login_sign_in>
+<merc_login_sign_up>SIGN UP</merc_login_sign_up>
+<merc_login_forgot_pass>Forgot Password</merc_login_forgot_pass>
+<!--FORGOT PASSWORD  -->
+<forgot_password>Forgot Your Password </forgot_password>
+<forgot_password_Let_us_help_you>Let us help you.</forgot_password_Let_us_help_you>
+<forgot_password_Enter_ur_details>Enter your details to begin.</forgot_password_Enter_ur_details>
+<forgot_password_enter>ENTER</forgot_password_enter>
+<forgot_password_Veriﬁcation_codes_OTP>Veriﬁcation codes OTP </forgot_password_Veriﬁcation_codes_OTP>
+<forgot_password_verification_codes_sent>A verification codes has been sent to XXXXXXXXX</forgot_password_verification_codes_sent>
+<forgot_password_Send_Again_OTP>Send Again OTP(59s)</forgot_password_Send_Again_OTP>
+<forgot_password_Change_Phone_number>Change Phone number</forgot_password_Change_Phone_number>
+<forgot_password_Create_a_password>Create a password with 6 numbers to safeguard your DRS</forgot_password_Create_a_password>
+<forgot_password_enter_pass>Enter password</forgot_password_enter_pass>
+<forgot_password_Re-enter_pass>Re-enter the password</forgot_password_Re-enter_pass>
+<forgot_password_enter>ENTER</forgot_password_enter>
+<!--Business Registration -->
+<business_reg>Business Registration</business_reg>
+<business_reg_sign_up>Sign Up</business_reg_sign_up>
+<business_reg_ur_login_id>Your Login ID</business_reg_ur_login_id>
+<business_reg_pass>Password</business_reg_pass>
+<business_reg_Email_Add>Email Address</business_reg_Email_Add>
+<business_reg_DRS_Referral_ID>DRS Referral ID *if any</business_reg_DRS_Referral_ID>
+<business_reg_ur_DRS_User_ID>Your DRS User ID *if any</business_reg_ur_DRS_User_ID>
+<business_reg_Operation_Details>Operation Details</business_reg_Operation_Details>
+<business_reg_Business_Name>Business Name</business_reg_Business_Name>
+<business_reg_Business_Add>Business Address</business_reg_Business_Add>
+<business_reg_Country>Country</business_reg_Country>
+<business_reg_Region>Region</business_reg_Region>
+<business_reg_Category>Category</business_reg_Category>
+<business_reg_Cont_Num>Contact Number</business_reg_Cont_Num>
+<business_reg_Operation_Hr>Operation rour</business_reg_Operation_Hr>
+<business_reg_Off_Day>Off Day</business_reg_Off_Day>
+<business_reg_Comp_Logo>Company Logo</business_reg_Comp_Logo>
+<business_reg_Upload_Image>Upload Image</business_reg_Upload_Image>
+<business_reg_Do_u_apply_service_tax>Do you apply service tax?</business_reg_Do_u_apply_service_tax>
+<business_reg_Do_u_apply_government_tax>Do you apply government tax?</business_reg_Do_u_apply_government_tax>
+<business_reg_Profit_Sharing>Profit Sharing</business_reg_Profit_Sharing>
+<business_reg_Spcl_Cond>Special Condition</business_reg_Spcl_Cond>
+<business_reg_Busns_Certificate>Business Certificate</business_reg_Busns_Certificate>
+<business_reg_Dir_Name>Director Name</business_reg_Dir_Name>
+<business_reg_Dir_IC_Num>Director IC Number</business_reg_Dir_IC_Num>
+<business_reg_Person_in_Charge>Person in Charge Name</business_reg_Person_in_Charge>
+<business_reg_Contact_Num>Contact Number</business_reg_Contact_Num>
+<business_reg_Bank_Det>Bank Details</business_reg_Bank_Det>
+<business_reg_Bank_Name>Bank Name</business_reg_Bank_Name>
+<business_reg_Branch_Add>Branch Address</business_reg_Branch_Add>
+<business_reg_Bank_Swift_Code>Bank Swift Code</business_reg_Bank_Swift_Code>
+<business_reg_Bank_Holder_Name>Bank Holder Name</business_reg_Bank_Holder_Name>
+<business_reg_Bank_Acc_Num>Bank Account Number</business_reg_Bank_Acc_Num>
+<business_reg_Payment_Pin_Code>Payment Pin Code</business_reg_Payment_Pin_Code>
+<business_reg_Enter_ur_Code>Enter Your Code</business_reg_Enter_ur_Code>
+<business_reg_Terms_and_Conditions>I agree with the Terms and Conditions, and Agreement </business_reg_Terms_and_Conditions>
+<business_reg_submit>SUBMIT</business_reg_submit>
+<!-- Home page -->
+<Home_page>Good Morning, XXXXX </Home_page>
+<Home_page_Acc_Bal>Account Balance</Home_page_Acc_Bal>
+<Home_page_Withdrawal>Withdrawal</Home_page_Withdrawal>
+<Home_page_Pay_Code>Pay Code </Home_page_Pay_Code>
+<!--Transaction History -->
+<Transaction_History>Transaction History</Transaction_History>
+<Transaction_Hitory_I’m_looking_for>I’m looking for ...</Transaction_Hitory_I’m_looking_for>
+<Transaction_History_All_Payment>All Payment</Transaction_History_All_Payment>
+<Transaction_History_Wallet>Wallet</Transaction_History_Wallet>
+<Transaction_History_Cash>Cash</Transaction_History_Cash>
+<Transaction_History_Transaction_ID>Transaction ID</Transaction_History_Transaction_ID>
+<Transaction_History_Successful>Successful</Transaction_History_Successful>
+<Transaction_History_Pending>Pending</Transaction_History_Pending>
+<Transaction_History_Unsuccessful>Unsuccessful</Transaction_History_Unsuccessful>
+
+<!-- Transaction Details -->
+<Transaction_Details_Total>Total</Transaction_Details_Total>
+<Transaction_Details_Payment_type>Payment type</Transaction_Details_Payment_type>
+<Transaction_Details_Online>Online</Transaction_Details_Online>
+<Transaction_Details_Total_Taxation>Total Taxation (Government Tax + Service Tax) </Transaction_Details_Total_Taxation>
+<Transaction_Details_Proﬁt_sharing_to_DRS>Proﬁt sharing to DRS: 20% (Exclude Tax) </Transaction_Details_Proﬁt_sharing_to_DRS>
+<Transaction_Details_Date_and_time>Date and time</Transaction_Details_Date_and_time>
+<Transaction_Details_Transaction_ID>Transaction ID </Transaction_Details_Transaction_ID>
+<Transaction_Details_User_ID>User ID</Transaction_Details_User_ID>
+<!-- Withdrawal -->
+<Withdrawal>Withdrawal</Withdrawal>
+<Withdrawal_Acc_Bal>Account Balance:</Withdrawal_Acc_Bal>
+<Withdrawal_Enter_amount>Enter the amount</Withdrawal_Enter_amount>
+<Withdrawal_Withdraw_to_link_bank>Withdraw to the link bank</Withdrawal_Withdraw_to_link_bank>
+<Withdrawal_Terms_and_Conditions>Terms and Conditions: 
+1. Minimum withdrawal amount of USD50. 
+2. 1.5% of the withdraw amount will be charged for each transaction as processing fee.
+3. Withdrawal requests will be processed on 3rd, 13th, and 23th of each month, 5 working days of processing period is required.</Withdrawal_Terms_and_Conditions>
+<Withdrawal_CONFIRM>CONFIRM</Withdrawal_CONFIRM>
+<Withdrawal_WITHDRAWAL_HISTORY>WITHDRAWAL HISTORY</Withdrawal_WITHDRAWAL_HISTORY>
+<!-- Withdrawal History -->
+<Withdrawal_History_I’m_looking>I’m looking for ...</Withdrawal_History_I’m_looking>
+<Withdrawal_History_Successful>Successful</Withdrawal_History_Successful>
+<Withdrawal_History_Transaction_ID>Transaction ID:</Withdrawal_History_Transaction_ID>
+<Withdrawal_History_Pending>Pending</Withdrawal_History_Pending>
+<Withdrawal_History_Unsuccessful>Unsuccessful</Withdrawal_History_Unsuccessful>
+<!-- Withdrawal Information -->
+<Withdrawal_Information_Withdrawal_Inf>Withdrawal Information</Withdrawal_Information_Withdrawal_Inf>
+<Withdrawal_Information_Withdrawal_Req>Withdrawal Request Submitted</Withdrawal_Information_Withdrawal_Req>
+<Withdrawal_Information_transferred_money_from_merchant_wallet_to_ur_bank_account> You have request transferred money from merchant wallet to your bank account</Withdrawal_Information_transferred_money_from_merchant_wallet_to_ur_bank_account>
+<Withdrawal_Information_Wallet_bal>Wallet balance:</Withdrawal_Information_Wallet_bal>
+<Withdrawal_Information_Ref_no>Ref no :</Withdrawal_Information_Ref_no>
+<!-- Setting -->
+<Setting>Setting</Setting>
+<Setting_Acc_Number>Account Number</Setting_Acc_Number>
+<Setting_Acc_Bal>Account Balance</Setting_Acc_Bal>
+<Setting_Sales_Report>Sales Report</Setting_Sales_Report>
+<Setting_Notifications>Notifications</Setting_Notifications>
+<Setting_Language>Language</Setting_Language>
+<Setting_Cust_Support>Customer Support</Setting_Cust_Support>
+<Setting_SIGN_OUT>SIGN OUT</Setting_SIGN_OUT>
+<!-- Acc _Setting -->
+<Acc__Setting_general_info>General Info </Acc__Setting_general_info>
+<Acc_Setting_ur_Login_ID >Your Login ID</Acc_Setting_ur_Login_ID>
+<Acc_Setting_Pass>Password</Acc_Setting_Pass>
+<Acc_Setting_Email_Add>Email Address</Acc_Setting_Email_Add>
+<Acc_Setting_DRS_Referral_ID >DRS Referral ID *if any</Acc_Setting_DRS_Referral_ID >
+<Acc_Setting_Your_DRS_User_ID>Your DRS User ID *if any</Acc_Setting_Your_DRS_User_ID>
+<Acc_Setting_Business_Info >Business Info</Acc_Setting_Business_Info >
+<Acc_Setting_Business_Name >Business Name</Acc_Setting_Business_Name >
+<Acc_Setting_Business_Address>Business Address</Acc_Setting_Business_Address>
+<Acc_Setting_Country >Country</Acc_Setting_Country >
+<Acc_Setting_Region >Region</Acc_Setting_Region >
+<Acc_Setting_Category>Category</Acc_Setting_Category>
+<Acc_Setting_Contact_Number >Contact Number</Acc_Setting_Contact_Number >
+<Acc_Setting_Operation_Hour>Operation Hour</Acc_Setting_Operation_Hour>
+<Acc_Setting_Off_Day >Off Day</Acc_Setting_Off_Day >
+<Acc_Setting_Company_Logo>Company Logo</Acc_Setting_Company_Logo>
+<Acc_Setting_Upload_Image>Upload Image</Acc_Setting_Upload_Image>
+<Acc_Setting_Do_you_apply_service_tax>Do you apply service tax?</Acc_Setting_Do_you_apply_service_tax>
+<Acc_Setting_Do_you_apply_government_tax>Do you apply government tax?</Acc_Setting_Do_you_apply_government_tax>
+<Acc_Setting_Profit_Sharing>Profit Sharing</Acc_Setting_Profit_Sharing>
+<Acc_Setting_Special_Condition >Special Condition</Acc_Setting_Special_Condition >
+<Acc_Setting_Business_Certificate >Business Certificate</Acc_Setting_Business_Certificate>
+<Acc_Setting_Director_Name >Director Name</Acc_Setting_Director_Name >
+<Acc_Setting_Director_IC_Number >Director IC Number</Acc_Setting_Director_IC_Number >
+<Acc_Setting_Person_in_Charge_Name >Person in Charge Name</Acc_Setting_Person_in_Charge_Name>
+<Acc_Setting_Contact_Num>Contact Number</Acc_Setting_Contact_Num>
+<Acc_Setting_Bank_Info>Bank Info </Acc_Setting_Bank_Info>
+<Acc_Setting_Bank_Name>Bank Name</Acc_Setting_Bank_Name>
+<Acc_Setting_Branch_Add>Branch Address</Acc_Setting_Branch_Add>
+<Acc_Setting_Bank_Swift_Code>Bank Swift Code</Acc_Setting_Bank_Swift_Code>
+<Acc_Setting_Bank_Holder_Name>Bank Holder Name</Acc_Setting_Bank_Holder_Name>
+<Acc_Setting_Bank_Acc_Num>Bank Account Number</Acc_Setting_Bank_Acc_Num>
+<Acc_Setting_Payment_Pin_Code>Payment Pin Code</Acc_Setting_Payment_Pin_Code>
+<Acc_Setting_UPDATE >UPDATE</Acc_Setting_UPDATE >
+<!-- Sales_ Report -->
+<Sales_Report_Day>Day</Sales_Report_Day>
+<Sales_Report_Month>Month</Sales_Report_Month>
+<Sales_Report_Year>Year</Sales_Report_Year>
+<Sales_Report_Cash_Payment>Cash Payment</Sales_Report_Cash_Payment>
+<Sales_Report_Wallet_Payment>Wallet Payment</Sales_Report_Wallet_Payment>
+<Sales_Report_Total_Payment_Received>Total Payment Received</Sales_Report_Total_Payment_Received>
+<!-- Notiﬁcations -->
+<Notiﬁcations_I’m_looking_for>I’m looking for ...</Notiﬁcations_I’m_looking_for>
+<Notiﬁcations_News_and_event>News and event </Notiﬁcations_News_and_event>
+<!-- Setting -->
+<Setting_CANCEL >CANCEL</Setting_CANCEL >
+<!-- Customer _Support -->
+<Customer_Support_I’m_looking_for>I’m looking for ...</Customer_Support_I’m_looking_for >
+<Customer_Support_MSG>MSG</Customer_Support_MSG>
+<Customer_Support_Last_message>Last message...</Customer_Support_Last_message>
+<!-- New Message -->
+<New_Message>New Message</New_Message>
+<New_Message_To_Support_Centre>To: Support Centre</New_Message_To_Support_Centre>
+<New_Message_Please_type_a_message>Please type a message...</New_Message_Please_type_a_message>
+<New_Message_Send>Send</New_Message_Send>
+<New_Message_Choose_File >Choose File </New_Message_Choose_File >
+<New_Message_No_ﬁle_chosen>No ﬁle chosen</New_Message_No_ﬁle_chosen>
+<New_Message_sign_out>Are you sure you want to sign out?</New_Message_sign_out>
+<New_Message_NO>NO</New_Message_NO>
+<New_Message_yes>yes</New_Message_yes>
+</resource>
